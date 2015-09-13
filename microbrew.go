@@ -31,6 +31,6 @@ func response(rw http.ResponseWriter, request *http.Request) {
 
 func main() {
 	log.Println("Microbrew tapped on localhost:12312/microbrew")
-	http.HandleFunc("/microbrew", response)
-	http.ListenAndServe(":12312", nil)
+	http.HandleFunc("/", response)
+	http.ListenAndServe(":8000", nil)
 }
