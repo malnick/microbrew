@@ -14,6 +14,7 @@ func response(rw http.ResponseWriter, request *http.Request) {
 		`http://www.milliokerestaurant.com/assets/images/main/ml_main-beer-pic.jpg`,
 		`http://i.huffpost.com/gen/1406344/images/o-BEER-facebook.jpg`,
 		`http://www.chicagomag.com/Chicago-Magazine/September-2013/best-beer/chicagomag-beer-desktop-1920x1200.jpg`,
+		`http://stream1.gifsoup.com/view1/4764298/australian-streaker-o.gif`,
 		`https://s3.amazonaws.com/images1.vat19.com/beer-boot/beer-boot-40-ounces.jpg`,
 		`http://hypefreshmag.com/wp-content/uploads/2015/06/beer-genes-app-will-help-people-pick-beers.jpg`,
 		`https://lygsbtd.files.wordpress.com/2011/08/beer_toast.jpg`,
